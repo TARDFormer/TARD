@@ -1,6 +1,6 @@
 # Progressive Offset Accumulation Module
 
-This repository contains the core contribution from the RoDD paper: a progressive offset accumulation mechanism for enhanced multimodal feature fusion in depth estimation tasks.
+This repository contains the core contribution from the paper: TARD: An Efficient Adaptive Decoder Mechanism with Progressive Offset Accumulation and Cascaded Adaptive Receptive Field Expansion
 
 ## Core Components
 
@@ -101,3 +101,4 @@ Song J, Liu Y, Xu J, et al. TARD: An Efficient Adaptive Decoder Mechanism with P
 ## License
 
 This code is released under the MIT License.
+
