@@ -92,7 +92,7 @@ DeformASPP fuses features from multiple scales:
 
 ## Citation
 
-If you use this code in your research, please cite the RoDD paper:
+If you use this code in your research, please cite the paper:
 
 ```
 Song J, Liu Y, Xu J, et al. TARD: An Efficient Adaptive Decoder Mechanism with Progressive Offset Accumulation and Cascaded Adaptive Receptive Field Expansion[C]//International Conference on Neural Information Processing. Singapore: Springer Nature Singapore, 2025: 464-479.
@@ -101,4 +101,5 @@ Song J, Liu Y, Xu J, et al. TARD: An Efficient Adaptive Decoder Mechanism with P
 ## License
 
 This code is released under the MIT License.
+
 
