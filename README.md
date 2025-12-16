@@ -1,4 +1,8 @@
-# TARDFormer_auto
+# Announcement
+We plan to progressively complete the remaining content and upload the model weight files by December 25, 2025.
+
+
+# TARDFormer
 
 Progressive offset accumulation for RGB-D semantic segmentation with deformable ASPP. This repository contains the core model (`TARDFormer_auto`), dataloaders for NYUv2/SUNRGBD, and evaluation/visualization scripts.
 
@@ -105,4 +109,5 @@ If you use this code, please cite:
   month={November}
 }
 ```
+
 
